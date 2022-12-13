@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/npm%20install%20--save%20gh-pagesReactP1/static/css/main.abd64e84.css",
+    "main.js": "/npm%20install%20--save%20gh-pagesReactP1/static/js/main.6fe0446d.js",
+    "static/js/787.28cb0dcd.chunk.js": "/npm%20install%20--save%20gh-pagesReactP1/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/npm%20install%20--save%20gh-pagesReactP1/index.html",
+    "main.abd64e84.css.map": "/npm%20install%20--save%20gh-pagesReactP1/static/css/main.abd64e84.css.map",
+    "main.6fe0446d.js.map": "/npm%20install%20--save%20gh-pagesReactP1/static/js/main.6fe0446d.js.map",
+    "787.28cb0dcd.chunk.js.map": "/npm%20install%20--save%20gh-pagesReactP1/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.abd64e84.css",
+    "static/js/main.6fe0446d.js"
+  ]
+}
